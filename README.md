@@ -9,7 +9,7 @@
 
 ### Présentation de l'application
 
-<img src="VOTRE_URL_GIF_ICI" width=200><br>
+<img src="https://github.com/leroywoodjo-spec/LAB_2/blob/main/Lab_2%20Leroy.gif" width=200><br>
 
 ## Requis
 - [x] L'utilisateur peut cliquer sur un bouton « + » qui le redirige vers un nouvel écran « Ajouter une carte ».
